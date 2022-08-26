@@ -15,3 +15,8 @@
 Import-Module \\Mac\Home\Downloads\bin-v10\bin\BitNotify.dll
 <br>
 <i>Unless the binary is imported, the following command won’t work.</i>
+
+To call both script, use the following:
+
+Start-Process Powershell.exe -Argumentlist "-file \\Mac\Home\Downloads\testSplash.ps1"
+Start-Process Powershell.exe -Argumentlist "-file \\Mac\Home\Downloads\BNlauncher.ps1"
