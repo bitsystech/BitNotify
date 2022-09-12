@@ -1,5 +1,5 @@
 # BitNotify
-<img width="600" alt="image" src="https://github.com/bitsystech/newton/blob/master/LogoGIF.gif">
+
 <H1>Send Splash Screens, Popup Notifications to end users with full control.</H1>
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5659686/185092477-e9e18f17-34ed-401c-9fd9-d5cd6fc69a54.png">
@@ -21,3 +21,4 @@ To call both script, use the following:
 
 Start-Process Powershell.exe -Argumentlist "-file \\Mac\Home\Downloads\testSplash.ps1" <br>
 Start-Process Powershell.exe -Argumentlist "-file \\Mac\Home\Downloads\BNlauncher.ps1"
+<img width="600" alt="image" src="https://github.com/bitsystech/newton/blob/master/LogoGIF.gif">
